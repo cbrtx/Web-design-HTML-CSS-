@@ -3,35 +3,3 @@ https://top-academy.site/2vy60u4itbhjue2na0wskey8lwwd1k7ar1a5qz/
 Урок 2
 https://top-academy.site/lmzwu4bbwneqkx2mk5adpmdqwmicubg0/#elementor-toc__heading-anchor-0
 
-РАБОТАЕМ  НА ЭТОМ САЙТЕ
-https://codepen.io/
-Код для первого урока
-1 задание
-https://codepen.io/Academy-top/pen/oNQXgoB
-2 задание 
-https://codepen.io/Academy-top/pen/GRwJgxQ
-
-
-/* Шаг 3 */
-padding-top: 20px;
-padding-right: 20px;
-padding-bottom: 20px;
-padding-left: 20px;
-
-margin-top: 20px
-margin-right: 20px
-margin-bottom: 20px
-margin-left: 20px
-
-картинку сюда
-https://postimages.org/
-
-
-body {
-  background-image: url('ссылка');
-  background-attachment: fixed;
-  background-size: 535px;
-  background-repeat: no-repeat;
-  background-position: 500px 1px;
-}
-https://codepen.io/elvira_a/pen/GgpzPxN
