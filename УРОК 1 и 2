@@ -10,3 +10,11 @@ https://codepen.io/
 
 https://postimages.org/
 
+body {
+  background-image: url('ссылка');
+  background-attachment: fixed;
+  background-size: 535px;
+  background-repeat: no-repeat;
+  background-position: 500px 1px;
+}
+
