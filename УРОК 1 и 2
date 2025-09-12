@@ -1,20 +1,12 @@
-Урок 1
-https://top-academy.site/2vy60u4itbhjue2na0wskey8lwwd1k7ar1a5qz/
-Урок 2
-https://top-academy.site/lmzwu4bbwneqkx2mk5adpmdqwmicubg0/#elementor-toc__heading-anchor-0
+Урок 3
+https://top-academy.site/8qyxe4vzghazsyie45dq1lljd3oqwgx0/
+Урок 4
+https://top-academy.site/pzty5fdt0wqencc4b7ojyi9vt2id4hi2/
 
 РАБОТАЕМ НА ЭТОМ САЙТЕ 
 https://codepen.io/
 
-ДЛЯ КАРТИНОК
-
+ДЛЯ КАРТИНОК ИСПОЛЬЗУЕМ ЭТОТ САЙТ
 https://postimages.org/
 
-body {
-  background-image: url('ссылка');
-  background-attachment: fixed;
-  background-size: 535px;
-  background-repeat: no-repeat;
-  background-position: 500px 1px;
-}
 
