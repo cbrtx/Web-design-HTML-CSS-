@@ -1,4 +1,3 @@
-https://codepen.io/Academy-top/pen/xxQOeXz?editors=1100
 
 Урок 3
 https://top-academy.site/8qyxe4vzghazsyie45dq1lljd3oqwgx0/
@@ -17,31 +16,3 @@ https://postimages.org/
 Генератор градиента с кодом
 https://cssgradient.io/
 
-ul, li {
-margin: 0;
-padding: 0;
-}
-
-ul {
-list-style: none;
-width: 100%;
-}
-
-li {
-float: left;
-width: auto;
-}
-
-a {
-background: #30A6E6;
-color: #FFFFFF;
-display: block;
-font: bold 13px sans-serif;
-padding: 10px 25px;
-text-align: center;
-text-decoration: none;
-}
-
-li:hover a {
-background: #000000;
-}
