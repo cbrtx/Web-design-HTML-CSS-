@@ -32,8 +32,4 @@ https://cssgradient.io/
 </ul>
 </body>
 </html>
-ol li {
-padding: 5px;
-margin: 5px 15px;
-background: #ebf0fa;
-}
+
