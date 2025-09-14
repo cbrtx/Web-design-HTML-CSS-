@@ -16,9 +16,6 @@ https://postimages.org/
 Генератор градиента с кодом
 https://cssgradient.io/
 
-li:hover a {
-background: #000000;
-}
 
 <!DOCTYPE html>
 <html>
