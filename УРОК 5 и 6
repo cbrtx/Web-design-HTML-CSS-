@@ -26,26 +26,16 @@ https://drive.google.com/drive/folders/1zZYlVXxQH403H3_KoFJN61ZSyKJ0ucoh?usp=sha
 ССЫЛКА ДЛЯ 6 УРОКА ИКОНКИ
 https://favicon.io/favicon-converter/.
 
-<!DOCTYPE html>
-<html>
-     <head>
+<!-- HEADER -->
+<header>
 
-     </head>
+</header>
+<!-- MAIN -->
+<main>
 
-<body>
-    <!-- HEADER -->
-    <header>
-     
-    </header>
-    <!-- MAIN -->
-    <main>
-     
-    </main>
-    <!-- FOOTER -->
-    <footer>
-     
-    </footer>
-</body>
-</html>
+</main>
+<!-- FOOTER -->
+<footer>
 
+</footer>
 
