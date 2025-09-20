@@ -28,7 +28,8 @@ https://favicon.io/favicon-converter/.
 
 <!-- HEADER -->
 <header>
-
+<img src=”https://i.postimg.cc/bJptxPg6/transformed.png”
+     width=”200” draggable=”false” alt=”Logo”>
 </header>
 <!-- MAIN -->
 <main>
