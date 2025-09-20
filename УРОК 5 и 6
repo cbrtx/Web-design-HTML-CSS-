@@ -26,17 +26,22 @@ https://drive.google.com/drive/folders/1zZYlVXxQH403H3_KoFJN61ZSyKJ0ucoh?usp=sha
 ССЫЛКА ДЛЯ 6 УРОКА ИКОНКИ
 https://favicon.io/favicon-converter/.
 
-<main>
-<div>
-  <div class="post">
-    <img decoding="async" height="230" src="https://i.postimg.cc/QxfCP5bJ/2023-06-24-22-43-17.png" alt="Card image cap">
-    <div>
-      <h3>Соник Супер-ежик</h3>
-      <p>
-        Откройте для себя один из самых запоминающихся уровней видеоигр: легендарные Зеленые холмы ежика Соника. Знакомые персонажи — минифигурка ежа Соника LEGO®, а также фигурки доктора Эггмана со сборным эггмобилем, мотожука с двумя вариантами лица и крабмита.
-      </p>
-      <a href="#">Подробнее</a>
-    </div>
-  </div>
-</div>
-<main>
+header, footer {
+	 background-color: #9debf5;
+padding: 10px;
+}
+
+main {
+padding: 10px;
+background-color: silver;
+}
+.post {
+background-color: white;
+padding: 20px;
+border-radius: 10px;
+margin-bottom: 20px;
+	 display: flex;
+}
+.post img {
+margin: 20px;
+}
