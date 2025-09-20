@@ -52,3 +52,15 @@ https://favicon.io/favicon-converter/.
     </center>
   </div>
 </footer>
+
+.footer-columns {
+	 display: flex;
+}
+.footer-column {
+	 flex: 50%;
+margin: 20px;
+}
+header, footer {
+	 background-color: #9debf5;
+padding: 10px;
+}
