@@ -27,7 +27,13 @@ https://drive.google.com/drive/folders/1zZYlVXxQH403H3_KoFJN61ZSyKJ0ucoh?usp=sha
 ССЫЛКА ДЛЯ 6 УРОКА ИКОНКИ
 https://favicon.io/favicon-converter/.
 
-<div>
+<header>
+    <img src="https://i.postimg.cc/bJptxPg6/transformed.png" width="290" draggable="false" alt="Logo">
+</header>
+<main>
+</main>
+<footer>
+  <div>
     <div>
       <div>
         <img src="https://i.postimg.cc/bJptxPg6/transformed.png" alt="Logo" width="250">
@@ -52,3 +58,4 @@ https://favicon.io/favicon-converter/.
       <small>Copyright &copy; 2025</small>
     </center>
   </div>
+</footer>
