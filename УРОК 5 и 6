@@ -29,22 +29,14 @@ https://favicon.io/favicon-converter/.
 ССЫЛКА ДЛЯ 8 УРОКА  slick 
 https://kenwheeler.github.io/slick/#go-get-it
 
-#menu1 ul li{
-position: relative;
-display: block;
- float: left;
-width: auto;
-height: auto;
+#menu1 ul li ul{
+position: absolute;
+top: 36px;
+left: 0px;
+display: none;
+width: 200px;
+background: #38b6ff;
 }
-#menu1 ul li a{
+#menu1 ul li:hover ul{
 display: block;
-padding: 9px 25px 0px 25px;
-font-size: 14px;
-line-height: 1.3em;
-text-decoration: none;
-font-weight: bold;
-text-transform: uppercase;
-height: 36px;
-box-sizing: border-box;
-color: white;
 }
