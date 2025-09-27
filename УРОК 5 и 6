@@ -29,8 +29,16 @@ https://favicon.io/favicon-converter/.
 ССЫЛКА ДЛЯ 8 УРОКА  slick 
 https://kenwheeler.github.io/slick/#go-get-it
 
- <link rel="stylesheet" type="text/css" href="slick/slick.css" />
- <link rel="stylesheet" type="text/css" href="slick/slick-theme.css" />
-
+    <div class="carousele">
+       <div class="carousele-element">
+           <img height="280" src="https://i.postimg.cc/8PZ9SkfJ/i.webp">
+       </div>
+       <div class="carousele-element">
+           <img height="230" src="https://i.postimg.cc/66kThwp4/i.webp">
+       </div>
+       <div class="carousele-element">
+           <img height="280" src="https://i.postimg.cc/15XMDG4g/orig.webp">
+       </div>
+   </div>
 
 
