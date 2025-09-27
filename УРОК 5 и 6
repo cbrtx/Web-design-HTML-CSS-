@@ -29,6 +29,12 @@ https://favicon.io/favicon-converter/.
 ССЫЛКА ДЛЯ 8 УРОКА  slick 
 https://kenwheeler.github.io/slick/#go-get-it
 
-box-shadow: 10px 10px 15px 0px #505FCC;
+$(document).ready(function () {
+    $('.carousele').slick({
+        arrows: false,
+        autoplay: true
+    });
+});
+
 
 
