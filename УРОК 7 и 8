@@ -29,7 +29,9 @@ https://favicon.io/favicon-converter/.
 ССЫЛКА ДЛЯ 8 УРОКА  slick 
 https://kenwheeler.github.io/slick/#go-get-it
 
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script type="text/javascript" src="slick/slick.min.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
+.carousele{
+margin: 10px;
+}
+.carousele div img{
+width: 100%
+}
