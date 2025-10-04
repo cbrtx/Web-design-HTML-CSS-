@@ -1,5 +1,18 @@
 https://codepen.io/elvira_a/pen/OPMMjqb
 
+h1, h2, h3, h4, h5 {
+font-family: ‘Open Sans’, sans-serif;
+font-weight: 600;
+}
+p {
+font-family: ‘Roboto’, sans-serif;
+font-weight: 300;
+}
+a {
+font-family: ‘Open Sans’, sans-serif;
+font-weight: 600;
+letter-spacing: 2px;
+}
 Урок 9
 https://top-academy.site/pw7ktse1kjc7eobwhexfgl0tvh2jkmxb/
 
